@@ -7,6 +7,8 @@ Resources for studying, practicing and creating RegEx patterns
 
 ## Tutorials
 
+- [W3Schools Python RegEx](https://www.w3schools.com/python/python_regex.asp) : A guide for using RegEx in Python.
+
 ## Cheatsheets
 
 ## Games
