@@ -11,6 +11,8 @@ Resources for studying, practicing and creating RegEx patterns
 
 ## Cheatsheets
 
+- [RegEx Quick Reference](https://www.computerhope.com/unix/regex-quickref.htm) : Quick reference for RegEx functions.
+
 ## Games
 
 ## Miscellaneous
